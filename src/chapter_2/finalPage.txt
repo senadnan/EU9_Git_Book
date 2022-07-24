@@ -1,0 +1,12 @@
+
+so far we learned git flow for
+
+commit --> push
+
+
+and
+
+remote --> control
+
+pull/update
+
